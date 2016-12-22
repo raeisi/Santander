@@ -3,7 +3,7 @@ import numpy as np
 import os, sys
 import glob
 
-path='C:/Users/Shahrouz/Google Drive/Codes/Kaggle/Submitals'
+path='ADD PATH HERE'
 
 def pr(df, l=20):
     if l<1000:

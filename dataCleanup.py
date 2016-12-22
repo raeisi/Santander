@@ -34,8 +34,6 @@ import matplotlib.pyplot as plt
 inputPath           = "YOUR INPUT PATH"
 outputPath          = "YOUR OUPUT PATH"
 
-inputPath           = "E:/Kaggle/Santander/"
-outputPath          = "C:/Users/Shahrouz/Google Drive/Codes/Kaggle/Santander/DataFiles/"
 
 # Reading @name and @n from command line
 name=(sys.argv)[1]
